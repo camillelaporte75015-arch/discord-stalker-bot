@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "stalk": ["1434337376448286720"],  // IDs autorisés à stalker
+    "antistalk": ["1434337376448286720"],  // Seuls les owners peuvent antistalk
+    "restalk": ["1434337376448286720"]   // Seuls les owners peuvent restalk
+  },
+  "salons": {
+    "prefix": "!"
+  }
+}
