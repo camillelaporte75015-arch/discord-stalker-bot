@@ -1,0 +1,20 @@
+{
+  "name": "discord-stalker-bot",
+  "version": "1.0.0",
+  "description": "Discord Stalker Bot avec gestion des salons privés et antistalk",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "fs-extra": "^11.1.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
